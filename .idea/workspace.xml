@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68be38a9-a215-4262-af3a-89a252dba3df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZWY8kP2wfuvIcP85E7rgdVTmdu" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/BrowserDrivers" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\NopCommercePomJenkins\src\test\resources\BrowserDrivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuit">
+    <configuration name="TestSuit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommercePomJenkins" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTestPom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="WebTestPom" />
+      <option name="MAIN_CLASS_NAME" value="WebTestPom.TestSuit" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -Dsauce=false" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.guestUserShouldAbleToAddNewCommentOnNopCommerce" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommercePomJenkins" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTestPom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="WebTestPom" />
+      <option name="MAIN_CLASS_NAME" value="WebTestPom.TestSuit" />
+      <option name="METHOD_NAME" value="guestUserShouldAbleToAddNewCommentOnNopCommerce" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -Dsauce=false" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbleToChangeCurrencySuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommercePomJenkins" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTestPom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="WebTestPom" />
+      <option name="MAIN_CLASS_NAME" value="WebTestPom.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbleToChangeCurrencySuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -Dsauce=false" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbleToCheckOutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommercePomJenkins" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTestPom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="WebTestPom" />
+      <option name="MAIN_CLASS_NAME" value="WebTestPom.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbleToCheckOutSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -Dsauce=false" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.verifyAllTheProductsHaveAddToCartButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommercePomJenkins" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTestPom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="WebTestPom" />
+      <option name="MAIN_CLASS_NAME" value="WebTestPom.TestSuit" />
+      <option name="METHOD_NAME" value="verifyAllTheProductsHaveAddToCartButton" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -Dsauce=false" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.verifyProductsSortedInPriceDescendingOrder" type="TestNG" nameIsGenerated="true">
+      <module name="NopCommercePomJenkins" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTestPom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="WebTestPom" />
+      <option name="MAIN_CLASS_NAME" value="WebTestPom.TestSuit" />
+      <option name="METHOD_NAME" value="verifyProductsSortedInPriceDescendingOrder" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -Dsauce=false" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestSuit.verifyProductsSortedInPriceDescendingOrder" />
+      <item itemvalue="TestNG.TestSuit.userShouldAbleToCheckOutSuccessfully" />
+      <item itemvalue="TestNG.TestSuit.guestUserShouldAbleToAddNewCommentOnNopCommerce" />
+      <item itemvalue="TestNG.TestSuit.userShouldAbleToChangeCurrencySuccessfully" />
+      <item itemvalue="TestNG.TestSuit.verifyAllTheProductsHaveAddToCartButton" />
+      <item itemvalue="TestNG.TestSuit" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuit" />
+        <item itemvalue="TestNG.TestSuit.verifyAllTheProductsHaveAddToCartButton" />
+        <item itemvalue="TestNG.TestSuit.userShouldAbleToChangeCurrencySuccessfully" />
+        <item itemvalue="TestNG.TestSuit.guestUserShouldAbleToAddNewCommentOnNopCommerce" />
+        <item itemvalue="TestNG.TestSuit.userShouldAbleToCheckOutSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68be38a9-a215-4262-af3a-89a252dba3df" name="Default Changelist" comment="" />
+      <created>1584956159440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584956159440</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585137718279">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585137718279" />
+    <state x="463" y="68" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585090324428">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="68" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1585090324428" />
+    <state width="1112" height="179" key="GridCell.Tab.0.bottom" timestamp="1585137721385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1112" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585137721385" />
+    <state width="1112" height="179" key="GridCell.Tab.0.center" timestamp="1585137721385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1112" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585137721385" />
+    <state width="1112" height="179" key="GridCell.Tab.0.left" timestamp="1585137721384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1112" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585137721384" />
+    <state width="1112" height="179" key="GridCell.Tab.0.right" timestamp="1585137721385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1112" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585137721385" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1585050012125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1585050012125" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585082831482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585082831482" />
+    <state x="379" y="101" width="607" height="526" key="find.popup" timestamp="1585094003932">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="101" width="607" height="526" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1585094003932" />
+    <state x="131" y="89" key="new project wizard" timestamp="1585000839919">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="89" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585000839919" />
+  </component>
+</project>
